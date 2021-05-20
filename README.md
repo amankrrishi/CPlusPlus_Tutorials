@@ -1,2 +1,2 @@
 # CPlusPlus_Tutorials
-Repository to learn and explore new C++ concepts
+Repository to practice old and explore new C++ concepts
